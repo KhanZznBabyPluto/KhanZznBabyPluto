@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-##- 🔭 I’m currently working on my course work "Building a mathematical model for a group of drones on patrol and calls handling"
-##- 🌱 I’m currently learning tensorflow, keras, python, c++, qiskit
-##- 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar
+- 🔭 I’m currently working on my course work "Building a mathematical model for a group of drones on patrol and calls handling"
+- 🌱 I’m currently learning tensorflow, keras, python, c++, qiskit  
+- 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar  
 
 I am currently studying in Moscow. My main locations are: Almaty, Astana, Moscow.  
 I speak russian, english and kazakh.  
