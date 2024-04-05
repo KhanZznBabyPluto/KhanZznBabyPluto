@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🔭 I’m currently working on my course work "Building a mathematical model for a group of drones on patrol and calls handling"
+- 🔭 I’m currently working on my course work about patrolling drones using Deep Learning
 - 🌱 I’m currently learning tensorflow, keras, python, c++, qiskit and more  
 - 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar  
 
