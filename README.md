@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 ##- 🌱 I’m currently learning tensorflow, keras, python, c++, qiskit
 ##- 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar
 
-I am currently studying in Moscow. My main locations are: Almaty, Astana, Moscow.
-I speak russian, english and kazakh
+I am currently studying in Moscow. My main locations are: Almaty, Astana, Moscow.  
+I speak russian, english and kazakh.  
+I love sports and, accordingly, teamwork
