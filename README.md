@@ -6,13 +6,16 @@
 **KhanZznBabyPluto/KhanZznBabyPluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-##- 🔭 I’m currently working on my course work "Building a mathematical model for a group of drones on patrol and calls handling"
-##- 🌱 I’m currently learning tensorflow, keras, python, c++, qiskit
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-##- 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+##- 🔭 I’m currently working on my course work "Building a mathematical model for a group of drones on patrol and calls handling"
+##- 🌱 I’m currently learning tensorflow, keras, python, c++, qiskit
+##- 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar
+
+I am currently studying in Moscow. My main locations are: Almaty, Astana, Moscow.
+I speak russian, english and kazakh
