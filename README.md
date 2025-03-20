@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on my diploma work about patrolling drones using Deep Learning
-- 🌱 I’m currently learning tensorflow, keras, python, c++, qiskit and more
+- 🌱 I’m currently learning pytorch, go, c++, qiskit and more
 - ⚡ Also I am Junior Backend Developer + ML. Working on Python and Go
 - 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar  
 
-I am currently studying in Moscow. My main locations are: Almaty, Astana, Moscow.  
+I am currently studying in Astana. My main locations are: Almaty, Astana, Moscow.  
 I speak russian, english, kazakh, and little spanish.  
 I love sports and, accordingly, teamwork
