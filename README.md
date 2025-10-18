@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🔭 I’m currently working on some research ideas I have about RL, autonomous driving
+- 🔭 I’m currently working on some research ideas I have about CV, RL, autonomous driving
 - 🌱 I’m currently learning pytorch, go, c++, qiskit and more
 - ⚡ Also I am Junior Backend Developer + ML. Working on Python and Go
 - 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar  
