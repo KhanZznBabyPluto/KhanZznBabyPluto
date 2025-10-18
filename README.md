@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ansar-khangeldin-2b3b56244/" target="_blank">Ansar Khangeldin</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">First year Ms/PhD in Electrical and Computer Engineering, Image and Video Understandning Lab, KAUST</h3>
+<h3 align="center">1st year Ms/PhD in Electrical Engineering, Image and Video Understandning Lab, KAUST</h3>
 <h3 align="center">Graduated Bs. in Applied Math and Informatics, Kazakhstan Branch of MSU</h3>
 
 <!--
