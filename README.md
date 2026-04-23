@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-- 🔭 I’m currently working on some research ideas I have about CV, RL, autonomous driving
+- 🔭 I’m currently working on some research projects in the lab using RL
 - 🌱 I’m currently learning pytorch, go, c++, qiskit and more
-- ⚡ Also I am Junior Backend Developer + ML. Working on Python and Go
+- ⚡ I'm also working on my research ideas in different domains: RL, LLM, Autonomous Driving
 - 📫 How to reach me: khangeldinansar@gmail.com or in LinkedIn: Khangeldin Ansar  
 
-I am currently studying in KAUST, Saudi Arabia. My main locations are: KAUST, Almaty, Astana, Moscow.  
+I am currently studying in KAUST, Saudi Arabia. My main locations are: KAUST, Almaty, Astana.  
 I speak russian, english, kazakh, and little spanish.  
 I love sports and, accordingly, teamwork
